@@ -13,4 +13,5 @@ Kullanıcımızdan konsol ekranında hangi meyveyi satın almak istediğini soru
 - Strawberry = 2 $
 - Banana = 3 $
 - Others = 4 $
+
 We ask our user which fruit he wants to buy on the console screen. Depending on the answer we receive, we print the price of the relevant fruit on the screen.
